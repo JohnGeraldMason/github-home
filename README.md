@@ -1,4 +1,5 @@
 ### John Gerald Mason - Github.io
+---
 
 #### My Github repository: 
 ##### https://github.com/JohnGeraldMason
